@@ -1,0 +1,33 @@
+body{
+
+	background-color: #4F4F4F;
+	color: #FFF;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+h1{
+
+	color: #1C1C1C;
+	text-align: center;
+}
+
+h2{
+
+	color: #1C1C1C;
+}
+
+p{
+
+font-size: 18px;
+text-align: justify;
+}
+img{
+
+	width: 70% ;
+}
+
+figure{
+
+	text-align: center;
+}
